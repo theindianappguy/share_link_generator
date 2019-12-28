@@ -12,6 +12,9 @@ Test Now [APP APK](https://drive.google.com/file/d/1k9yejQuUmmPjoFegmYtree9m4bN2
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Android Studio/Visual Studio Code
 
+### Things needs improvement
+- EditFormFeild is not working properly with large text needs to be fixed
+
 ## Join Us
 * [Join Our Facebook Group](https://www.facebook.com/groups/519517995532897/) - I share a lot of value in it
 
